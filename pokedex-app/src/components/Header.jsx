@@ -1,5 +1,7 @@
 export function Header(){
   return (
-    <Header></Header>
+    <header>
+      <button>Hi</button>
+    </header>
   );
 }
